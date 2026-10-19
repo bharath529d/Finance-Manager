@@ -1,0 +1,1 @@
+print("This is expense tracker module.")
